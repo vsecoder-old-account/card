@@ -1,5 +1,5 @@
 var i = 0;
-var txt = 'Im a ..., my special abilities is ...!'; /* The text */
+var txt = 'Im a edification, my special abilities is programming!'; /* The text */
 var speed = 100; /* The speed/duration of the effect in milliseconds */
 
 function typeWriter() {
